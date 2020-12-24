@@ -1,0 +1,29 @@
+14:29:07.019 [TestNG] INFO  resources.Base - navigated to facebook homepage
+14:29:07.657 [TestNG] INFO  resources.Base - succefully login
+14:30:42.561 [main] INFO  resources.Base - driver is initialised
+14:30:49.172 [main] INFO  resources.Base - navigated to facebook homepage
+14:30:50.403 [main] INFO  resources.Base - succefully login
+14:31:06.158 [main] INFO  resources.Base - navigated to facebook homepage
+14:32:23.249 [main] INFO  resources.Base - driver is initialised
+14:32:28.067 [main] INFO  resources.Base - navigated to facebook homepage
+14:32:29.217 [main] INFO  resources.Base - succefully login
+14:33:01.239 [main] INFO  resources.Base - driver is initialised
+14:33:08.248 [main] INFO  resources.Base - navigated to facebook homepage
+14:33:09.641 [main] INFO  resources.Base - succefully login
+14:34:04.328 [main] INFO  resources.Base - driver is initialised
+14:34:30.421 [main] INFO  resources.Base - driver is initialised
+14:34:35.636 [main] INFO  resources.Base - navigated to facebook homepage
+14:34:36.827 [main] INFO  resources.Base - succefully login
+14:34:45.661 [main] INFO  resources.Base - navigated to facebook homepage
+14:49:04.487 [TestNG] INFO  resources.Base - driver is initialised
+14:49:05.801 [TestNG] INFO  resources.Base - driver is initialised
+14:49:06.470 [TestNG] INFO  resources.Base - driver is initialised
+14:49:30.463 [TestNG] INFO  resources.Base - navigated to facebook homepage
+14:49:31.182 [TestNG] INFO  resources.Base - navigated to homepage
+14:49:31.519 [TestNG] INFO  resources.Base - navigated to homepage
+14:49:31.925 [TestNG] INFO  resources.Base - validated the Login text
+14:49:31.946 [TestNG] INFO  resources.Base - Successfully validated the navigation bar
+14:49:32.402 [TestNG] INFO  resources.Base - succefully login
+14:50:00.026 [TestNG] INFO  resources.Base - navigated to facebook homepage
+15:33:53.658 [TestNG] INFO  resources.Base - driver is initialised
+15:33:53.372 [TestNG] INFO  resources.Base - driver is initialised

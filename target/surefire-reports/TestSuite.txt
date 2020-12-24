@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 2.413 s <<< FAILURE! - in TestSuite
+TriggeringOptions.testRunner.setUpClass  Time elapsed: 2.159 s  <<< FAILURE!
+cucumber.runtime.CucumberException: No backends were found. Please make sure you have a backend module on your CLASSPATH.
+
+TriggeringOptions.testRunner.tearDownClass  Time elapsed: 2.164 s  <<< FAILURE!
+java.lang.NullPointerException
+

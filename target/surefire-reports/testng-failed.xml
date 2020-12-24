@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <test name="Home page login fb(failed)" parallel="tests">
+    <classes>
+      <class name="TriggeringOptions.testRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- TriggeringOptions.testRunner -->
+    </classes>
+  </test> <!-- Home page login fb(failed) -->
+</suite> <!-- Failed suite [Suite] -->

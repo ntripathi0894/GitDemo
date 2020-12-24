@@ -1,0 +1,6 @@
+20:43:45.666 [TestNG] INFO  resources.Base - navigated to facebook homepage
+20:43:45.876 [TestNG] INFO  resources.Base - navigated to homepage
+20:43:46.041 [TestNG] INFO  resources.Base - navigated to homepage
+20:43:46.816 [TestNG] INFO  resources.Base - Successfully validated the navigation bar
+20:43:47.172 [TestNG] INFO  resources.Base - validated the Login text
+20:43:48.532 [TestNG] INFO  resources.Base - succefully login

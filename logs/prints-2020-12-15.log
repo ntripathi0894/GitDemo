@@ -1,0 +1,28 @@
+15:33:55.521 [TestNG] INFO  resources.Base - driver is initialised
+15:34:08.703 [TestNG] INFO  resources.Base - navigated to homepage
+15:34:09.084 [TestNG] INFO  resources.Base - Successfully validated the navigation bar
+15:34:13.443 [TestNG] INFO  resources.Base - navigated to homepage
+15:34:14.736 [TestNG] INFO  resources.Base - validated the Login text
+15:34:21.442 [TestNG] INFO  resources.Base - navigated to facebook homepage
+15:34:22.184 [TestNG] INFO  resources.Base - succefully login
+15:36:41.489 [TestNG] INFO  resources.Base - driver is initialised
+15:36:44.351 [TestNG] INFO  resources.Base - driver is initialised
+15:36:45.615 [TestNG] INFO  resources.Base - driver is initialised
+15:36:55.823 [TestNG] INFO  resources.Base - navigated to homepage
+15:36:56.027 [TestNG] INFO  resources.Base - Successfully validated the navigation bar
+15:37:00.407 [TestNG] INFO  resources.Base - navigated to homepage
+15:37:00.492 [TestNG] INFO  resources.Base - validated the Login text
+15:37:00.970 [TestNG] INFO  resources.Base - navigated to facebook homepage
+15:37:01.808 [TestNG] INFO  resources.Base - succefully login
+16:49:56.773 [TestNG-tests-1] INFO  resources.Base - driver is initialised
+16:50:07.616 [TestNG-tests-4] INFO  resources.Base - driver is initialised
+16:50:15.091 [TestNG-tests-2] INFO  resources.Base - driver is initialised
+16:50:29.574 [TestNG-tests-1] INFO  resources.Base - navigated to facebook homepage
+16:50:31.301 [TestNG-tests-2] INFO  resources.Base - navigated to homepage
+16:50:31.480 [TestNG-tests-4] INFO  resources.Base - navigated to homepage
+16:50:31.950 [TestNG-tests-2] INFO  resources.Base - validated the Login text
+16:50:32.034 [TestNG-tests-4] INFO  resources.Base - Successfully validated the navigation bar
+16:50:32.831 [TestNG-tests-1] INFO  resources.Base - succefully login
+20:43:23.540 [TestNG] INFO  resources.Base - driver is initialised
+20:43:23.540 [TestNG] INFO  resources.Base - driver is initialised
+20:43:23.540 [TestNG] INFO  resources.Base - driver is initialised
