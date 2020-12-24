@@ -22,6 +22,14 @@ public WebElement username() {
 	   
 	   return driver.findElement(username);
 	   }
+public WebElement usernameeee() {
+	   
+	   return driver.findElement(username);
+	   }
+public WebElement usernameeeee() {
+	   
+	   return driver.findElement(username);
+	   }
 
 public WebElement Search() {
 	   
