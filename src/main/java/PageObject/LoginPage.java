@@ -42,6 +42,15 @@ public WebElement gettitle() {
 	   return driver.findElement(title);
 	   
 }
+public WebElement gettitle1() {
+	   
+	   return driver.findElement(title);
+	   
+}public WebElement gettitle2() {
+	   
+	   return driver.findElement(title);
+	   
+}
 public ForgotPassword forgotpassword() {
 	driver.findElement(forgotpassword).click();
 	return new ForgotPassword(driver);
