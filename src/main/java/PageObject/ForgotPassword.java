@@ -30,6 +30,10 @@ public WebElement usernameeeee() {
 	   
 	   return driver.findElement(username);
 	   }
+public WebElement use() {
+	   
+	   return driver.findElement(username);
+	   }
 
 public WebElement Search() {
 	   
