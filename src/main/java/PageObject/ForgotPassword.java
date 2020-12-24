@@ -35,11 +35,25 @@ public WebElement Search() {
 	   
 	   return driver.findElement(search);
 	   }
-
+public WebElement Searchhhhhh() {
+	   
+	   return driver.findElement(search);
+	   }
+public WebElement Searccccccch() {
+	   
+	   return driver.findElement(search);
+	   }
 public WebElement Password() {
 	// TODO Auto-generated method stub
 	  return driver.findElement(Password);
 }
 
-
+public WebElement Passwordddddddddddddddd() {
+	// TODO Auto-generated method stub
+	  return driver.findElement(Password);
+}
+public WebElement Passwordrrrrrrrrrr() {
+	// TODO Auto-generated method stub
+	  return driver.findElement(Password);
+}
 }
